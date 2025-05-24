@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.db
+*.db-shm
+*.db-wal
+*.v2
+*.vsidx
+*.testlog
+*.manifest
+*.suo
+/.vs/Leaderboard/v17
+/.vs/ProjectEvaluation
+/Leaderboard/bin/Debug/net7.0
+/Leaderboard/obj
+/Leaderboard.Tests/bin/Debug/net7.0
+/Leaderboard.Tests/obj
